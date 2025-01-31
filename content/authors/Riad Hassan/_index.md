@@ -100,19 +100,19 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: python.svg
+        icon: custom/python
       - name: PyTorch
         description: ''
         percent: 70
-        icon: pytorch.png
+        icon: custom/pytorch
       - name: Data Science
         description: ''
         percent: 80
         icon: chart-bar
-      - name: SQL
+      - name: Django
         description: ''
         percent: 
-        icon: circle-stack
+        icon: custom/pytorch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -121,7 +121,7 @@ skills:
         description: ''
         percent: 60
         icon: code-bracket
-      - name: Discussion
+      - name: academicons/Discussion
         description: ''
         percent: 100
         icon: conversation
@@ -132,7 +132,7 @@ skills:
       - name: Cycling
         description: ''
         percent: 90
-        icon: cycling.png
+        icon: custom/cycling
 
 languages:
   - name: English
