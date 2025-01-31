@@ -35,10 +35,10 @@ sections:
       title: 'Updates'
       subtitle: ''
       text: |-
-        - _Nov'24_ : Completed _MSc_ from Bangladesh University of Engineering and Technology.
-        - _August 2024_ : A paper is accepted in _**(DICTA)**_ 2024.
-        - _Jun'24_ : A paper "[UDBRNet](https://doi.org/10.1371/journal.pone.0304771)" Published in _**PLOS ONE**_.
-        - _May'24_ : Our paper "[UDBANet](https://ieeexplore.ieee.org/document/10635587)" is presented in _**ISBI-2024**_.
+        - _Nov'24_ : Completed research based _MSc_ on DL from BUET.
+        - _Aug'24_ : A paper is accepted in _**(DICTA)**_ 2024.
+        - _Jun'24_ : A paper "[UDBRNet](https://doi.org/10.1371/journal.pone.0304771)" is published in _**PLOS ONE**_.
+        - _May'24_ : A paper "[UDBANet](https://ieeexplore.ieee.org/document/10635587)" is presented in _**ISBI-2024**_.
         - _Feb'24_ : Appointed as **program coordinator** of *CSE, GUB*.
         <!---
         # - _November 2023_ : A [paper](https://ieeexplore.ieee.org/abstract/document/10465011) is accepted in _**STI 2023**_.
@@ -49,10 +49,7 @@ sections:
         -->
     design:
       columns: '1'
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
-        
+
   - block: collection
     id: papers
     content:
