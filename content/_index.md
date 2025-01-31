@@ -32,14 +32,20 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Updates'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        - _November 2024_ : Completed MSc from Bangladesh University of Engineering and Technology. Thesis title: *A novel uncertainty driven boundary refined convolution neural network for uneven medical image segmentation*.
+        - _August 2024_ : A paper **"Automated Radiomics-Based Clinically Significant Prostate Cancer (csPCa) Grade Classification From Biparametric MRI"** is accepted for presenting in _Digital Image Computing: Techniques & Applications **(DICTA)**_ 2024 Conference.
+        - _June 2024_ : A paper "[UDBRNet: A novel uncertainty driven boundary refined network for organ at risk segmentation](https://doi.org/10.1371/journal.pone.0304771)" Published in PLOS ONE. [[Source Code]](https://github.com/riadhassan/UDBRNet)
+        - _May 2024_ : Our paper "[Uncertainty Driven Bottleneck Attention U-net for Organ at Risk Segmentation](https://ieeexplore.ieee.org/document/10635587)" is presented in *IEEE International Symposium on Biomedical Imaging 2024 (ISBI-2024)* by [Professor Clinton Fookes](https://www.qut.edu.au/about/our-people/academic-profiles/c.fookes). [[Source Code]](https://github.com/riadhassan/UDBA-UNet)
+        - _February 2024_ : Accepted (full length) paper on Medical Imaging in the prestigious *IEEE International Symposium on Biomedical Imaging 2024 (ISBI-2024)* for presentation.
+        - _February 2024_ : Appointed as **program coordinator** of *Computer Science and Engineering Department, Green University of Bangladesh*.
+        - _November 2023_ : A paper "[A Sign Language Recognition System for Helping Disabled People](https://ieeexplore.ieee.org/abstract/document/10465011)" is accepted for presenting in _International Conference on Sustainable Technologies for Industry 5.0 (STI 2023)_ Conference.
+        - _June 2023_ : Attended **Summer School on Spectral Graph Theory** organized by BUET.
+        - _February 2023_: Complete course on **Teaching for Active Learning (TAL)** organized by _Foundation for Learning Teaching and Research (fLTR)_
+        - _September 2022_: Research article "[Eye Tracking, Saliency Modeling and Human Feedback Descriptor Driven Robust Region-of-Interest Determination Technique](https://ieeexplore.ieee.org/abstract/document/9887942)" publish in _IEEE Access_ [Q1, IF: 3.476]. This research is conducted in collaboration with _Charles Sturt University, Australia_.
+        - _June 2022_: Received **Excellence Award** from _Pabna University of Science and Technology_.
     design:
       columns: '1'
   - block: collection
