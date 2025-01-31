@@ -11,7 +11,7 @@ last_name: Hassan
 
 # Status emoji
 status:
-  icon: 👨🏽‍💻
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -100,11 +100,11 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: python.svg
       - name: PyTorch
         description: ''
         percent: 70
-        icon: pytorch
+        icon: pytorch.png
       - name: Data Science
         description: ''
         percent: 80
@@ -117,18 +117,22 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Automate boring stuffs 
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: code-bracket
+      - name: Discussion
         description: ''
         percent: 100
-        icon: cat
+        icon: conversation
       - name: Photography
         description: ''
-        percent: 80
+        percent: 60
         icon: camera
+      - name: Cycling
+        description: ''
+        percent: 90
+        icon: cycling.png
 
 languages:
   - name: English
