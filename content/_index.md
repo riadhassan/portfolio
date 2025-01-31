@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "0.5rem"
+  spacing: "2rem"
 
 sections:
   - block: resume-biography-3
@@ -36,12 +36,12 @@ sections:
       subtitle: ''
       text: |-
         - _Nov'24_ : Completed _MSc_ from Bangladesh University of Engineering and Technology.
-        - _August 2024_ : A paper is accepted for presenting in _**(DICTA)**_ 2024.
+        - _August 2024_ : A paper is accepted in _**(DICTA)**_ 2024.
         - _Jun'24_ : A paper "[UDBRNet](https://doi.org/10.1371/journal.pone.0304771)" Published in _**PLOS ONE**_.
         - _May'24_ : Our paper "[UDBANet](https://ieeexplore.ieee.org/document/10635587)" is presented in _**ISBI-2024**_.
         - _Feb'24_ : Appointed as **program coordinator** of *CSE, GUB*.
         <!---
-        # - _November 2023_ : A [paper](https://ieeexplore.ieee.org/abstract/document/10465011) is accepted in _**STI 2023**_ Conference.
+        # - _November 2023_ : A [paper](https://ieeexplore.ieee.org/abstract/document/10465011) is accepted in _**STI 2023**_.
         # - _June 2023_ : Attended **Summer School on Spectral Graph Theory** organized by BUET.
         # - _February 2023_: Complete course on **Teaching for Active Learning (TAL)** organized by _Foundation for Learning Teaching and Research (fLTR)_
         # - _September 2022_: Research article "[Eye Tracking, Saliency Modeling and Human Feedback Descriptor Driven Robust Region-of-Interest Determination Technique](https://ieeexplore.ieee.org/abstract/document/9887942)" publish in _IEEE Access_ [Q1, IF: 3.476]. This research is conducted in collaboration with _Charles Sturt University, Australia_.
@@ -49,6 +49,10 @@ sections:
         -->
     design:
       columns: '1'
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
+        
   - block: collection
     id: papers
     content:
