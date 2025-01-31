@@ -12,10 +12,10 @@ appearance:
 marketing:
   seo:
     site_type: Person
-    local_business_type: ''
-    org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    twitter: 'GetResearchDev'
+    local_business_type: 'Research'
+    org_name: 'Green University of Bangladesh, Bangladesh University of Engineering and Technology, GUB, BUET'
+    description: 'Riad Hassan personal web portal to share research information'
+    twitter: '@_Riad_Hassan'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
