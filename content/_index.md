@@ -12,7 +12,7 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: Riad Hassan
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: Riad_profile.png
           filters:
             brightness: 1.0
           size: cover
